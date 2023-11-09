@@ -1,4 +1,4 @@
-module github.com/pietdaniel/sprig-cli
+module github.com/DataDog/sprig-cli
 
 go 1.13
 
